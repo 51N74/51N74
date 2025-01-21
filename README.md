@@ -4,7 +4,11 @@ Hi 👋 My name is Jiranat Pattanasintara
 Web Developer,Coffee Roaster,Photographer
 -----------------------------------------
 
-I graduated from KMUTT with a degree in IT and have been working in the IT field for 2-3 years. Initially, I started as a UX/UI designer, but I realized it wasn't my passion. During the COVID-19 pandemic, I took the opportunity to start my own coffee shop, which taught me invaluable skills in management, time scheduling, cost control, and even coffee roasting. After the pandemic, I returned to IT, starting with basic HTML, CSS, and JavaScript. Currently, I work as a WordPress Developer at an agency, where my primary responsibilities involve CSS development and occasionally modifying plugins/themes using PHP. I am continuously expanding my skill set, exploring both front-end and back-end development to eventually become a Full-Stack Developer. My current learning focus includes frameworks like React and Next.js, as well as backend technologies like Node.js and Python. I am passionate about web development and always eager to improve and embrace new challenges.
+I graduated from KMUTT with a degree in IT and have been working in the IT field for 2-3 years. Initially, I started as a UX/UI designer, but I realized it wasn't my passion. During the COVID-19 pandemic, I took the opportunity to start my own coffee shop, which taught me invaluable skills in management, time scheduling, cost control, and even coffee roasting. 
+
+After the pandemic, I returned to IT, starting with basic HTML, CSS, and JavaScript. Currently, I work as a WordPress Developer at an agency, where my primary responsibilities involve CSS development and occasionally modifying plugins/themes using PHP. 
+
+I am continuously expanding my skill set, exploring both front-end and back-end development to eventually become a Full-Stack Developer. My current learning focus includes frameworks like React and Next.js, as well as backend technologies like Node.js and Python. I am passionate about web development and always eager to improve and embrace new challenges.
 
 * 🌍  I'm based in Samut Prakan, Thailand
 * ✉️  You can contact me at [jiranat.p@outlook.com](mailto:jiranat.p@outlook.com)
