@@ -1,38 +1,49 @@
-Hi 👋 My name is Jiranat Pattanasintara
-=======================================
+# Hi, I'm Jiranat Pattanasintara 👋
 
-Web Developer,Coffee Roaster,Photographer
------------------------------------------
+**Full-Stack Developer | Web & Product Development**
 
-I graduated from KMUTT with a degree in IT and have been working in the IT field for 2-3 years. My career began as a UX/UI Designer, where I designed websites using Figma based on client requirements. Although I enjoyed the creative process, I realized it wasn't my true passion.
+I build web applications and independent products, with a focus on modern JavaScript/TypeScript, backend APIs, databases, and data-driven systems.
 
-During the COVID-19 pandemic, I pursued a different path by opening my own specialty coffee shop, "Alongdrip Coffee," in Khao Yai. This experience was transformative, teaching me invaluable skills in business management, time scheduling, cost control, and even coffee roasting. It was a hands-on opportunity to manage a small business and create a unique customer experience.
+Currently working with **Next.js, React, TypeScript, Node.js, PostgreSQL**, with an interest in building data-driven applications and quantitative systems.
 
-After the pandemic, I returned to the IT field, starting with foundational skills in HTML, CSS, and JavaScript. I currently work as a WordPress Developer at an agency, where I focus on designing and customizing websites based on client needs. My role involves CSS development, theme customization, and occasional plugin modifications using PHP.
+## Featured Projects
 
-In addition to my professional work, I have diverse experience from previous roles. As a Film Developer and Sales Associate at a film camera shop, I provided customer support by recommending film and camera options, developing and scanning film, and ensuring an excellent customer experience. This role further honed my time management and task prioritization skills.
+### VextaCore
 
-I am committed to continuous learning and personal growth. I am actively expanding my expertise in web development, focusing on both front-end and back-end technologies to advance as a Full-Stack Developer. My current learning journey includes exploring frameworks like React and Next.js, as well as backend technologies like Node.js and Python. Passionate about web development, I embrace new challenges and strive to deliver impactful solutions.
+A quantitative football analytics platform that compares model probabilities with market prices to identify meaningful differences between the model and the market.
 
-* 🌍  I'm based in Samut Prakan, Thailand
-* ✉️  You can contact me at [jiranat.p@outlook.com](mailto:jiranat.p@outlook.com)
-* 🧠  I'm learning NextJS,Golang,Typescript and other
+**Stack:** Next.js · TypeScript · Python · PostgreSQL · REST APIs
 
-Connect Me on Nostr : npub1esyenpe4c8ndsex8wdepnd964eytwkrr98pdk6qvvha3kk96pwyspyyes3
+### HomeKitchen
 
-### Skills
+A full-stack food ordering application built as an independent product project.
 
+**Stack:** Next.js · TypeScript · PostgreSQL · REST APIs
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a><a href="https://www.sushi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" alt="Sushiswap" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
+### Panstr Webboard
 
+A forum-style web application focused on building a complete full-stack system from frontend to backend.
 
-### Socials
+**Stack:** React · Node.js · PostgreSQL
 
-<p align="left"> <a href="https://www.github.com/51N74" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jiranat-pattanasintara-4b94ab348/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Tech
 
+**Languages:** JavaScript · TypeScript · Python · SQL
 
-### Badges
+**Frontend:** React · Next.js · Tailwind CSS
 
-<a href="https://github.com/51N74" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=51N74&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Backend:** Node.js · Express · REST APIs
+
+**Database:** PostgreSQL
+
+**Tools & Platforms:** Git · GitHub · WordPress · Vercel · Render
+
+## What I'm Looking For
+
+I'm currently looking for opportunities to work as a **Full-Stack / Web Developer**, while continuing to build and ship independent products.
+
+## Links
+
+* 🌐 [Portfolio](https://vextacore.app/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/jiranat-pattanasintara/)
+* 📫 Open to Full-Stack and Web Developer opportunities.
