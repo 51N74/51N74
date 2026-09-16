@@ -44,6 +44,6 @@ I'm currently looking for opportunities to work as a **Full-Stack / Web Develope
 
 ## Links
 
-* 🌐 [Portfolio](https://vextacore.app/)
+* 🌐 [Portfolio](https://jiranat-portfolio.vercel.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/jiranat-pattanasintara/)
 * 📫 Open to Full-Stack and Web Developer opportunities.
