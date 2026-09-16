@@ -2,41 +2,45 @@
 
 **Full-Stack Developer | Web & Product Development**
 
-I build web applications and independent products, with a focus on modern JavaScript/TypeScript, backend APIs, databases, and data-driven systems.
+I build web applications and independent products, with experience across frontend development, backend APIs, databases, and data-driven systems.
 
-Currently working with **Next.js, React, TypeScript, Node.js, PostgreSQL**, with an interest in building data-driven applications and quantitative systems.
+I enjoy taking a problem from **idea → product design → implementation → deployment**, and exploring how technical decisions can shape the product itself.
 
 ## Featured Projects
 
 ### VextaCore
 
-A quantitative football analytics platform that compares model probabilities with market prices to identify meaningful differences between the model and the market.
+A quantitative football analytics platform that compares independent model probabilities with market prices to identify meaningful differences between the model and the market.
 
-**Stack:** Next.js · TypeScript · Python · PostgreSQL · REST APIs
+**Focus:** Quantitative modeling · Market analysis · Data-driven product development
 
 ### HomeKitchen
 
-A full-stack food ordering application built as an independent product project.
+A frontend product prototype exploring a food marketplace designed around a key constraint of home kitchens: **limited production capacity**.
 
-**Stack:** Next.js · TypeScript · PostgreSQL · REST APIs
+The project explores how capacity, availability, and inventory constraints can become part of the ordering experience.
+
+**Stack:** React · TypeScript · Vite · TanStack Router · Tailwind CSS
 
 ### Panstr Webboard
 
-A forum-style web application focused on building a complete full-stack system from frontend to backend.
+A forum-style web application built without a traditional backend database.
 
-**Stack:** React · Node.js · PostgreSQL
+The project explores how a discussion platform can work with a decentralized event network as its primary data layer, with client-side state and local storage handling part of the application architecture.
+
+**Stack:** Next.js · React · JavaScript · Tailwind CSS · Nostr · IndexedDB
 
 ## Tech
 
-**Languages:** JavaScript · TypeScript · Python · SQL
+**Languages:** JavaScript · TypeScript · Python · SQL · Rust
 
 **Frontend:** React · Next.js · Tailwind CSS
 
-**Backend:** Node.js · Express · REST APIs
+**Backend:** Node.js · Express · Rust · Axum · REST APIs
 
-**Database:** PostgreSQL
+**Database:** PostgreSQL · SQLite · IndexedDB
 
-**Tools & Platforms:** Git · GitHub · WordPress · Vercel · Render
+**Tools & Platforms:** Git · GitHub · Docker · WordPress · Vercel · Render
 
 ## What I'm Looking For
 
